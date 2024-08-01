@@ -1,0 +1,30 @@
+﻿{
+	"version": 1722515218,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/background.png",
+		"images/startbuttonn-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/backgroundstage1.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/resumebutton-sheet0.png",
+		"media/anyconv.com__cartoon-jump-6462.ogg",
+		"media/anyconv.com__game-over-arcade-6435.ogg",
+		"media/anyconv.com__game-music-loop-7-145285.ogg.ogg",
+		"media/anyconv.com__don-pollo-the-grefg_rsa0fjg.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
